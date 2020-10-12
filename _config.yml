@@ -28,10 +28,10 @@ github_username:  ArrowAcrobatics
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-theme-awesome
-theme: jekyll-theme-clean-blog
+# theme: jekyll-theme-clean-blog
+# remote_theme: squarezero/squarezero.github.io
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
-# remote_theme: jekyll-theme-clean-blog # not working? 
 
 # default: minima
 plugins:
