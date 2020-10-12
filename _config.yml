@@ -15,10 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Arrow Acrobatics
 email: arrowacrobatics@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >- # this means to ignore newlines until next key/value
+   Theatrical circus performer specializing in 
+   Aerial Rope and Aerial Straps
 
 # Note:
 # Not setting baseurl results in  both localhost:4000/ 
@@ -36,10 +35,14 @@ markdown: kramdown
 # remote_theme: squarezero/squarezero.github.io
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
+paginate:           5
+paginate_path: "/posts/page:num/"
 
 # default: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
