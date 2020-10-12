@@ -5,5 +5,3 @@
 layout: home
 background: '/img/ice-demon/arrow-acrobatics-supperclub-blue-banner.jpg'
 ---
-
-Note: this website is still under construction. Github pages serves as an alpha release channel.
