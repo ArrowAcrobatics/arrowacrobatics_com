@@ -30,6 +30,7 @@ github_username:  ArrowAcrobatics
 markdown: kramdown
 # theme: jekyll-theme-awesome
 theme: jekyll-theme-clean-blog
+remote_theme: jekyll-theme-clean-blog
 
 # default: minima
 plugins:
