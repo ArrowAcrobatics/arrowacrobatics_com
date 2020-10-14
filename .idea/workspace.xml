@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="89b3e948-d9ed-4dbb-abb6-77d72028266f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/post_preview.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/post_preview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/post_preview_customized.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/post_preview_customized.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ice-demon/IMG-20191202-WA0003.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +24,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="/usr/bin/bundle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -33,6 +32,9 @@
     <option name="myIpythonEnabled" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_sass" />
       <recent name="$PROJECT_DIR$/assets" />
@@ -70,6 +72,10 @@
       <screen x="72" y="41" width="1848" height="1039" />
     </state>
     <state x="454" y="218" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.41.1848.1039/1920.0.1920.1080@72.41.1848.1039" timestamp="1602515277705" />
+    <state x="681" y="284" width="619" height="560" key="#serve_jekyll" timestamp="1602661129218">
+      <screen x="72" y="41" width="1848" height="1039" />
+    </state>
+    <state x="681" y="284" width="619" height="560" key="#serve_jekyll/72.41.1848.1039@72.41.1848.1039" timestamp="1602661129218" />
     <state x="779" y="318" width="424" height="491" key="FileChooserDialogImpl" timestamp="1602515272779">
       <screen x="72" y="41" width="1848" height="1039" />
     </state>
@@ -78,9 +84,14 @@
       <screen x="72" y="41" width="1848" height="1039" />
     </state>
     <state x="485" y="195" width="1289" height="737" key="SettingsEditor/72.41.1848.1039/1920.0.1920.1080@72.41.1848.1039" timestamp="1602515146520" />
-    <state x="659" y="269" width="672" height="678" key="search.everywhere.popup" timestamp="1602517311122">
+    <state x="652" y="388" key="com.intellij.ide.util.TipDialog" timestamp="1602661113665">
+      <screen x="72" y="41" width="1848" height="1039" />
+    </state>
+    <state x="652" y="388" key="com.intellij.ide.util.TipDialog/72.41.1848.1039@72.41.1848.1039" timestamp="1602661113665" />
+    <state x="659" y="269" width="672" height="678" key="search.everywhere.popup" timestamp="1602664610098">
       <screen x="72" y="41" width="1848" height="1039" />
     </state>
     <state x="659" y="269" width="672" height="678" key="search.everywhere.popup/72.41.1848.1039/1920.0.1920.1080@72.41.1848.1039" timestamp="1602517311122" />
+    <state x="659" y="269" width="672" height="678" key="search.everywhere.popup/72.41.1848.1039@72.41.1848.1039" timestamp="1602664610098" />
   </component>
 </project>
