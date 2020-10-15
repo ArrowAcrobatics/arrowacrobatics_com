@@ -7,4 +7,5 @@ background: '/img/duo/evaandarrow-futuristic-orb.jpg'
 tag: eva-and-arrow
 ---
 
-Background of the futuristic duo.
+## Synopsis
+This will have to come in the future.

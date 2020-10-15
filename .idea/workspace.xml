@@ -3,19 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="89b3e948-d9ed-4dbb-abb6-77d72028266f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/post_preview.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/post_preview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-10-11-eva-arrow-mission-kipsate.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-11-eva-arrow-mission-kipsate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-10-11-eva-arrow-your-theme.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-11-eva-arrow-your-theme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-10-11-ice-demon.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-11-ice-demon.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-10-11-size-matters.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-11-size-matters.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-me.md" beforeDir="false" afterPath="$PROJECT_DIR$/book-me.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/book-us.md" beforeDir="false" afterPath="$PROJECT_DIR$/book-us.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/collaborate.md" beforeDir="false" afterPath="$PROJECT_DIR$/collaborate.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/contact.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/background_aerial_rope-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/size-matters/arrow-acrobatics-male-beauty-banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/size-matters/arrow-acrobatics-male-beauty.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons.md" beforeDir="false" afterPath="$PROJECT_DIR$/lessons.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons.md" beforeDir="false" afterPath="$PROJECT_DIR$/workshops.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,19 +96,20 @@
       <screen x="72" y="41" width="1848" height="1039" />
     </state>
     <state x="485" y="195" width="1289" height="737" key="SettingsEditor/72.41.1848.1039/1920.0.1920.1080@72.41.1848.1039" timestamp="1602515146520" />
-    <state x="652" y="388" key="com.intellij.ide.util.TipDialog" timestamp="1602661113665">
+    <state x="652" y="388" key="com.intellij.ide.util.TipDialog" timestamp="1602792070760">
       <screen x="72" y="41" width="1848" height="1039" />
     </state>
-    <state x="652" y="388" key="com.intellij.ide.util.TipDialog/72.41.1848.1039@72.41.1848.1039" timestamp="1602661113665" />
+    <state x="652" y="388" key="com.intellij.ide.util.TipDialog/72.41.1848.1039/1920.0.1920.1080@72.41.1848.1039" timestamp="1602757122802" />
+    <state x="652" y="388" key="com.intellij.ide.util.TipDialog/72.41.1848.1039@72.41.1848.1039" timestamp="1602792070760" />
     <state x="764" y="480" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602721119718">
       <screen x="72" y="41" width="3768" height="1039" />
     </state>
     <state x="764" y="480" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.41.3768.1039@72.41.3768.1039" timestamp="1602721119718" />
-    <state x="1269" y="269" width="1371" height="678" key="search.everywhere.popup" timestamp="1602716832577">
-      <screen x="72" y="41" width="3768" height="1039" />
+    <state x="659" y="269" width="672" height="678" key="search.everywhere.popup" timestamp="1602798089636">
+      <screen x="72" y="41" width="1848" height="1039" />
     </state>
     <state x="659" y="269" width="672" height="678" key="search.everywhere.popup/72.41.1848.1039/1920.0.1920.1080@72.41.1848.1039" timestamp="1602517311122" />
-    <state x="659" y="269" width="672" height="678" key="search.everywhere.popup/72.41.1848.1039@72.41.1848.1039" timestamp="1602664610098" />
+    <state x="659" y="269" width="672" height="678" key="search.everywhere.popup/72.41.1848.1039@72.41.1848.1039" timestamp="1602798089636" />
     <state x="1269" y="269" width="1371" height="678" key="search.everywhere.popup/72.41.3768.1039@72.41.3768.1039" timestamp="1602716832577" />
   </component>
 </project>
